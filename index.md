@@ -27,7 +27,9 @@
 
 
 
-
-
+``` python
+myVar = "Hello, world!"
+```
 mendaje
+
 
